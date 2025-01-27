@@ -22,8 +22,8 @@
 
 ### Local Setup:
 
-For next app - https://github.com/KRISH2832/Arcadia-fortune-2-/blob/main/next-app/README.md
-For move contracts - https://github.com/KRISH2832/Arcadia-fortune-2-/blob/main/contracts/fortune(prize)-x/README.MD
+For next app - https://github.com/justin212407/arcadia-fortune/tree/main/client#readme
+For move contracts - https://github.com/justin212407/arcadia-fortune/tree/main/contracts#readme
 
 ### Inspiration:
 Arcadia-fortune draws from the success of platforms like fortune(prize)caster and Gib.work to create a comprehensive fortune(prize) ecosystem specifically tailored to the Aptos blockchain.
